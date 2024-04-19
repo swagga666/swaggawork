@@ -1,0 +1,23 @@
+{
+  "name": "work666",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swagga666/swaggawork.git"
+  },
+  "author": "swagsigma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swagga666/swaggawork/issues"
+  },
+  "homepage": "https://github.com/swagga666/swaggawork#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
